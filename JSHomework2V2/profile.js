@@ -1,0 +1,50 @@
+var profile = {
+  name: 'Mark Zuckerberg',
+  job: 'CEO',
+  companyName: 'Facebook',
+  age: 32,
+  height: 67,
+  companyRank: 157,
+  address: {
+    city: 'Menlo Park',
+    state: 'California',
+    employeeTotal: 17048,
+    departmentTotal: 20
+  },
+  acquisitions: [
+    'Parakey',
+    'ConnectU',
+    'FriendFeed',
+    'Octazen',
+    'Divvyshot',
+    'Friendster Patents',
+    'ShareGrove',
+    'NextStop',
+    'Chai Labs',
+    'Hot Potato',
+    'Drop.io',
+    'Rel8tion',
+    'Beluga',
+    'Snaptu',
+    'RecRec',
+    'DayTum',
+    'Sofa',
+    'MailRank',
+    'Friend.ly',
+    'Strobe',
+    'Instagram',
+    'Tagtile',
+    'Lightbox.com',
+    'Karma',
+    'Spool',
+    'Atlas Solutions',
+    'Spaceport',
+    'Parse',
+    'Jibbigo',
+    'Onavo',
+    'WhatsApp',
+    'OculusVR'
+  ]
+}
+
+module.exports.info = profile
